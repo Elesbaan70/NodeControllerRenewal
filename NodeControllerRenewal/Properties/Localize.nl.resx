@@ -266,6 +266,11 @@
   <data name="Settings_SelectMiddleNodesDiscription" xml:space="preserve">
     <value>Als deze optie is uitgeschakeld worden de middenknooppunten naar de klikpositie verplaatst</value>
   </data>
+  
+  
+  
+  
+  
   <data name="Setting_ShortcutCalculateShiftByIntersections" xml:space="preserve">
     <value>Calculeer verschuiving bij kruispunten</value>
   </data>
@@ -299,6 +304,8 @@
   <data name="Setting_ShortcutSetTwistBetweenIntersections" xml:space="preserve">
     <value>Pas de kronkel tussen kruispunten toe</value>
   </data>
+  
+  
   <data name="Tool_InfoAlignMode" xml:space="preserve">
     <value>Houd {0} ingedrukt om wegen uit te lijnen</value>
   </data>
