@@ -275,6 +275,11 @@
   <data name="Settings_SelectMiddleNodesDiscription" xml:space="preserve">
     <value>설정을 끄면 중간 노드들이 클릭한 위치로 이동하게 됩니다</value>
   </data>
+  
+  
+  
+  
+  
   <data name="Setting_ShortcutCalculateShiftByIntersections" xml:space="preserve">
     <value>교차로에 의한 밀려짐 계산</value>
   </data>
@@ -308,6 +313,8 @@
   <data name="Setting_ShortcutSetTwistBetweenIntersections" xml:space="preserve">
     <value>두 교차로 사이에 비틀림 설정</value>
   </data>
+  
+  
   <data name="Tool_InfoAlignMode" xml:space="preserve">
     <value>{0}를 꾹 눌러 도로 정렬</value>
   </data>
