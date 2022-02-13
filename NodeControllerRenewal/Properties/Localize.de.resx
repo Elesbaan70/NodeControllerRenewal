@@ -293,6 +293,11 @@ Abwärtskompatibilität bietet nicht die Übernahme aller Daten und muss daher m
   <data name="Settings_SelectMiddleNodesDiscription" xml:space="preserve">
     <value>Wenn diese Option deaktiviert ist, werden die mittigen Netzwerk-Knoten an die angeklickte Position verschoben</value>
   </data>
+  
+  
+  
+  
+  
   <data name="Setting_ShortcutCalculateShiftByIntersections" xml:space="preserve">
     <value>Verschiebung durch Kreuzungen berechnen</value>
   </data>
@@ -326,6 +331,8 @@ Abwärtskompatibilität bietet nicht die Übernahme aller Daten und muss daher m
   <data name="Setting_ShortcutSetTwistBetweenIntersections" xml:space="preserve">
     <value>Drehung zwischen Kreuzungen festlegen</value>
   </data>
+  
+  
   <data name="Tool_InfoAlignMode" xml:space="preserve">
     <value>{0} gedrückt halten, um Straßen auszurichten</value>
   </data>
