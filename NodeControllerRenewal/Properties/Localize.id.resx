@@ -267,6 +267,11 @@ Kompatibilitas ke belakang tidak memfasilitasi pentransferan segala data. Penyes
   <data name="Settings_SelectMiddleNodesDiscription" xml:space="preserve">
     <value>Jika opsi ini dinonaktifkan, titik hubung di tengah akan berpindah ke posisi yang diklik</value>
   </data>
+  
+  
+  
+  
+  
   <data name="Setting_ShortcutCalculateShiftByIntersections" xml:space="preserve">
     <value>Hitungkan pergeseran menurut persimpangan</value>
   </data>
@@ -300,6 +305,8 @@ Kompatibilitas ke belakang tidak memfasilitasi pentransferan segala data. Penyes
   <data name="Setting_ShortcutSetTwistBetweenIntersections" xml:space="preserve">
     <value>Terapkan twist di antara persimpangan</value>
   </data>
+  
+  
   <data name="Tool_InfoAlignMode" xml:space="preserve">
     <value>Tekan dan tahan {0} untuk meluruskan jalan</value>
   </data>
