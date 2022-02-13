@@ -275,6 +275,11 @@ Kompatybilność wsteczna nie pozwala na transfer wszystkich danych, mogą być 
   <data name="Settings_SelectMiddleNodesDiscription" xml:space="preserve">
     <value>Jeśli ta opcja jest wyłączona, węzły środkowe przeniosą się do klikniętego miejsca</value>
   </data>
+  
+  
+  
+  
+  
   <data name="Setting_ShortcutCalculateShiftByIntersections" xml:space="preserve">
     <value>Oblicz przesunięcie na podstawie skrzyżowań</value>
   </data>
@@ -308,6 +313,8 @@ Kompatybilność wsteczna nie pozwala na transfer wszystkich danych, mogą być 
   <data name="Setting_ShortcutSetTwistBetweenIntersections" xml:space="preserve">
     <value>Ustaw skręt pomiędzy skrzyżowaniami</value>
   </data>
+  
+  
   <data name="Tool_InfoAlignMode" xml:space="preserve">
     <value>Przytrzymaj {0} aby wyrównać drogi</value>
   </data>
