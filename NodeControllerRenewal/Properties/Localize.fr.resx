@@ -275,6 +275,11 @@ La rétrocompatibilité n'assure pas le transfert de toutes les données, il est
   <data name="Settings_SelectMiddleNodesDiscription" xml:space="preserve">
     <value>Si cette option est désactivée, les nœuds du milieu se déplaceront vers l'emplacement cliqué</value>
   </data>
+  
+  
+  
+  
+  
   <data name="Setting_ShortcutCalculateShiftByIntersections" xml:space="preserve">
     <value>Calculer le décalage par intersections</value>
   </data>
@@ -308,6 +313,8 @@ La rétrocompatibilité n'assure pas le transfert de toutes les données, il est
   <data name="Setting_ShortcutSetTwistBetweenIntersections" xml:space="preserve">
     <value>Définir la torsion entre les intersections</value>
   </data>
+  
+  
   <data name="Tool_InfoAlignMode" xml:space="preserve">
     <value>Maintenez la touche {0} pour aligner les routes</value>
   </data>
