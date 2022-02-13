@@ -275,6 +275,11 @@ La retrocompatibilitá non garantisce il trasferimento di tutti i dati; possibil
   <data name="Settings_SelectMiddleNodesDiscription" xml:space="preserve">
     <value>Se questa opzione è disabilitata, i nodi centrali si sposteranno alla posizione cliccata</value>
   </data>
+  
+  
+  
+  
+  
   <data name="Setting_ShortcutCalculateShiftByIntersections" xml:space="preserve">
     <value>Calcola lo spostamento dalle intersezioni</value>
   </data>
@@ -308,6 +313,8 @@ La retrocompatibilitá non garantisce il trasferimento di tutti i dati; possibil
   <data name="Setting_ShortcutSetTwistBetweenIntersections" xml:space="preserve">
     <value>Imposta torsione tra intersezioni</value>
   </data>
+  
+  
   <data name="Tool_InfoAlignMode" xml:space="preserve">
     <value>Tieni premuto {0} per allineare le strade</value>
   </data>
