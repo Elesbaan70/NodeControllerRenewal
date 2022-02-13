@@ -347,6 +347,11 @@
   <data name="Settings_SelectMiddleNodesDiscription" xml:space="preserve">
     <value>Если эта опция отключена, средние узлы будет сдвинуты к месту нажатия</value>
   </data>
+  
+  
+  
+  
+  
   <data name="Setting_ShortcutCalculateShiftByIntersections" xml:space="preserve">
     <value>Рассчитать сдвиг между перекрестками</value>
   </data>
@@ -380,6 +385,8 @@
   <data name="Setting_ShortcutSetTwistBetweenIntersections" xml:space="preserve">
     <value>Задать скручивание между перекрестками</value>
   </data>
+  
+  
   <data name="Tool_InfoAlignMode" xml:space="preserve">
     <value>Удерживайте {0} чтобы выровнять дороги</value>
   </data>
