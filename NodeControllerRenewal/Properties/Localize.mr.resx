@@ -275,6 +275,11 @@ Keserasian ke belakang tidak menyediakan pemindahan kesemua data, pelarasan manu
   <data name="Settings_SelectMiddleNodesDiscription" xml:space="preserve">
     <value>Jika pilihan ini dinyahdayakan, nod pertengahan akan pindah ke kedudukan yang diklik</value>
   </data>
+  
+  
+  
+  
+  
   <data name="Setting_ShortcutCalculateShiftByIntersections" xml:space="preserve">
     <value>Kira anjakan mengikut persimpangan</value>
   </data>
@@ -308,6 +313,8 @@ Keserasian ke belakang tidak menyediakan pemindahan kesemua data, pelarasan manu
   <data name="Setting_ShortcutSetTwistBetweenIntersections" xml:space="preserve">
     <value>Tetapkan pulas di antara persimpangan</value>
   </data>
+  
+  
   <data name="Tool_InfoAlignMode" xml:space="preserve">
     <value>Tahan kekunci {0} untuk menjajar jalan</value>
   </data>
