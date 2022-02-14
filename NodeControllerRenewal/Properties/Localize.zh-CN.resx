@@ -310,11 +310,21 @@
   <data name="Settings_SelectMiddleNodesDiscription" xml:space="preserve">
     <value>禁用后，中间点将移动到单击位置</value>
   </data>
-  
-  
-  
-  
-  
+  <data name="Settings_ShortcutEnterUnderground" xml:space="preserve">
+    <value>进入地下模式</value>
+  </data>
+  <data name="Settings_ShortcutExitUnderground" xml:space="preserve">
+    <value>退出地下模式</value>
+  </data>
+  <data name="Settings_ToggleUnderground" xml:space="preserve">
+    <value>切换地下</value>
+  </data>
+  <data name="Settings_ToggleUndergroundButtons" xml:space="preserve">
+    <value>按 {0} 进入， {1} 退出</value>
+  </data>
+  <data name="Settings_ToggleUndergroundHold" xml:space="preserve">
+    <value>按住 {0}</value>
+  </data>
   <data name="Setting_ShortcutCalculateShiftByIntersections" xml:space="preserve">
     <value>按交叉点计算偏移</value>
   </data>
