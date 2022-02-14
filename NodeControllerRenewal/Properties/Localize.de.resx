@@ -293,8 +293,12 @@ Abwärtskompatibilität bietet nicht die Übernahme aller Daten und muss daher m
   <data name="Settings_SelectMiddleNodesDiscription" xml:space="preserve">
     <value>Wenn diese Option deaktiviert ist, werden die mittigen Netzwerk-Knoten an die angeklickte Position verschoben</value>
   </data>
-  
-  
+  <data name="Settings_ShortcutEnterUnderground" xml:space="preserve">
+    <value>Untergrundmodus aktivieren</value>
+  </data>
+  <data name="Settings_ShortcutExitUnderground" xml:space="preserve">
+    <value>Untergrundmodus beenden</value>
+  </data>
   
   
   
