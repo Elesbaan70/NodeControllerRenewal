@@ -326,7 +326,9 @@ La rétrocompatibilité n'assure pas le transfert de toutes les données, il est
   <data name="Tool_EnterUnderground" xml:space="preserve">
     <value>Appuyez sur {0} pour entrer en mode souterrain</value>
   </data>
-  
+  <data name="Tool_ExitUnderground" xml:space="preserve">
+    <value>Appuyez sur {0} pour quitter le mode souterrain</value>
+  </data>
   <data name="Tool_InfoAlignMode" xml:space="preserve">
     <value>Maintenez la touche {0} pour aligner les routes</value>
   </data>
